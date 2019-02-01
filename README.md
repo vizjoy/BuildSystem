@@ -27,3 +27,7 @@ Below you will find a quick guide on how to set up your models. Remember you wil
 <br/>Rigidbody -> useGravity = False
 <br/>Rigidbody -> isKinematic = true
 <br/>Add the Preview Script 
+
+<h2>--------Build Manager Gameobject--------</h2>
+<br/>Create an empty and add in the BuildSystem, and the BuildManager
+<br/>The BuildManager is optional. In your game the BuildManager.cs will be replaced by your Inventory, HotBar, or someother source.
